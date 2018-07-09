@@ -1,4 +1,4 @@
-# Cooperative Pathfinding
+# Cooperative Pathfinding (using A star algorithm)
 
 ## Introduction
 * This simulation has been made using Unity
